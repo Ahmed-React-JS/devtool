@@ -1,4 +1,4 @@
-# Ahmed Dev Toolkit
+# Dev Toolkit
 
 A macOS developer maintenance CLI — interactive terminal menu for cleaning caches, managing disk space, and keeping your dev environment healthy.
 
